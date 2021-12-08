@@ -1,3 +1,5 @@
+Projeto CRUD com Java e MySQL
+
 É um CRUD feito com Java e MySQL para apresentar CONTROLE DE ORDEM DE SERVIÇO de uma ORDEM DE SERVIÇO DE COMPUTADOR.
 
 O projeto consiste no famoso sistema CRUD (Criar, Ler, Atualizar e Excluir) que manipula as entidades de banco de dados que estão em uso pelo projeto para aplicar esses métodos acima dele. No caso deste projeto, é utilizado um Controle de Ordem de Serviço de Assistência Técnica em Computadores.
